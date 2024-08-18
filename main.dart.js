@@ -101827,7 +101827,7 @@ $0(){return A.xg($.aP())},
 $S:0}
 A.zb.prototype={
 F(a1){var s,r,q,p=null,o="Pretendard",n=4281218618,m=$.u.l(),l=6.8*$.X.l()/100,k=1.1*$.u.l()/100,j=A.iH(p,p),i=6.8*$.X.l()/100,h=A.P(p,1.3*$.u.l()/100,p),g=A.ab("\ud504\ub85c\ud544 \uc791\uc131\uc744 \uc644\ub8cc\ud588\uc5b4\uc694",p,p,p,p,A.a3(p,p,new A.n(4278240637),p,p,p,p,p,o,p,p,A.a5(17.3),p,p,B.v,p,1.2,!0,p,p,p,p,p,p,p,p),B.J,p),f=A.P(p,2.3*$.u.l()/100,p),e=A.ab("\uc774\uc81c \uc5f0\uc560 \uc2dc\ubbac\ub808\uc774\uc158\uc73c\ub85c\n\ub098\uc758 \uc5f0\uc560 \uc2a4\ud0c0\uc77c\uc744 \uc54c\uc544\ubd10\uc694!",p,p,p,p,A.a3(p,p,new A.n(4279704348),p,p,p,p,p,o,p,p,A.a5(19.5),p,p,B.T,p,1.2,!0,p,-0.46,p,p,p,p,p,p),B.J,p),d=A.P(p,3.5*$.u.l()/100,p),c=$.u.l(),b=A.aG(10),a=$.X.l(),a0=t.p
-c=A.af(p,A.b8(A.a([A.bw(A.a([A.P(A.bZ("point",1),p,5.5*a/100),A.P(p,p,0.5*$.X.l()/100),A.ab("\ud14c\uc2a4\ud2b8\uc758 \uacb0\uacfc\ub294 \ucd94\ud6c4 \uc0c1\ub300\ubc29\uacfc\uc758 \uad00\uacc4\ub97c",p,p,p,p,A.a3(p,p,new A.n(n),p,p,p,p,p,o,p,p,A.a5(16.3),p,p,B.A,p,1.2,!0,p,p,p,p,p,p,p,p),p,p)],a0),B.o,B.aq,B.m),A.ab("\uc815\uc758\ud560 \ub54c \uc0ac\uc6a9\ub3fc\uc694.",p,p,p,p,A.a3(p,p,new A.n(n),p,p,p,p,p,o,p,p,A.a5(16.3),p,p,B.A,p,1.2,!0,p,p,p,p,p,p,p,p),p,p)],a0),B.o,B.aq,B.m),B.h,p,p,new A.bm(new A.n(4294046452),p,p,p,new A.b3(b,B.q)),p,8.5*c/100,p,p,p,p,1/0)
+c=A.af(p,A.b8(A.a([A.bw(A.a([A.P(A.bZ("point",1),p,5*a/100),A.P(p,p,0.5*$.X.l()/100),A.ab("\ud14c\uc2a4\ud2b8\uc758 \uacb0\uacfc\ub294 \ucd94\ud6c4 \uc0c1\ub300\ubc29\uacfc\uc758 \uad00\uacc4\ub97c",p,p,p,p,A.a3(p,p,new A.n(n),p,p,p,p,p,o,p,p,A.a5(16.3),p,p,B.A,p,1.2,!0,p,p,p,p,p,p,p,p),p,p)],a0),B.o,B.aq,B.m),A.ab("\uc815\uc758\ud560 \ub54c \uc0ac\uc6a9\ub3fc\uc694.",p,p,p,p,A.a3(p,p,new A.n(n),p,p,p,p,p,o,p,p,A.a5(16.3),p,p,B.A,p,1.2,!0,p,p,p,p,p,p,p,p),p,p)],a0),B.o,B.aq,B.m),B.h,p,p,new A.bm(new A.n(4294046452),p,p,p,new A.b3(b,B.q)),p,8.5*c/100,p,p,p,p,1/0)
 b=A.P(p,6*$.u.l()/100,p)
 a=$.X.l()
 a=A.af(p,A.bZ("simulation",1),B.h,p,p,p,p,p,p,p,p,p,79*a/100)
@@ -102081,7 +102081,7 @@ $2(a,b){return A.aOv("assets/image/"+this.b+".png",B.d1,b.b*this.a)},
 $S:760}
 A.T6.prototype={
 F(a){var s,r,q=null,p=$.X.l(),o=t.p
-p=A.a([A.b_(q,A.af(q,A.bZ("privious",1),B.h,q,q,q,q,q,q,q,q,q,2.7*p/100),B.n,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.amv(),q,q,q)],o)
+p=A.a([A.b_(q,A.af(q,A.bZ("privious",1),B.h,q,q,q,q,q,q,q,q,q,2.8*p/100),B.n,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.amv(),q,q,q)],o)
 s=this.e
 if(s!=null){r=this.c
 if(r==null)r=A.a5(17.3)
@@ -102293,7 +102293,7 @@ s===$&&A.b()
 return[r,s]}}
 A.Vr.prototype={
 F(a){var s=null
-return A.d9(s,s,A.bu(A.b8(A.a([A.ab("\uc6ec\ub9cc\ud558\uba74 \ubaa8\ubc14\uc77c\ub85c \uc811\uc18d\ud574 \uc8fc\uc138\uc694",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.P(s,10*$.u.l()/100,s),A.aNV(A.ab("\ub85c\uadf8\uc778 \uc774\ub3d9",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.asm()),A.P(s,10*$.u.l()/100,s),A.aNV(A.ab("\uba54\uc778 \ud398\uc774\uc9c0 \uc774\ub3d9",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.asn())],t.p),B.o,B.aq,B.m),s,s),s,s)}}
+return A.d9(s,s,A.bu(A.b8(A.a([A.ab("\ubaa8\ubc14\uc77c\ub85c \uc811\uc18d\ud574 \uc8fc\uc138\uc694",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.P(s,10*$.u.l()/100,s),A.aNV(A.ab("\ub85c\uadf8\uc778 \uc774\ub3d9",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.asm()),A.P(s,10*$.u.l()/100,s),A.aNV(A.ab("\uba54\uc778 \ud398\uc774\uc9c0 \uc774\ub3d9",s,s,s,s,A.a3(s,s,s,s,s,s,s,s,s,s,s,A.a5(20),s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),new A.asn())],t.p),B.o,B.aq,B.m),s,s),s,s)}}
 A.asm.prototype={
 $0(){A.j2($.aP(),new A.asl(),null,t.z)},
 $S:0}
