@@ -100551,7 +100551,7 @@ $1(a){return!0},
 $S:17}
 A.aom.prototype={
 gBM(){var s=this.a
-return s===$?this.a=A.aNe(A.aHx("http://ec2-3-25-64-39.ap-southeast-2.compute.amazonaws.com/api/v1/",!0,A.ax(["Access-Control-Allow-Origin","https://ncsual.github.io","Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS","Access-Control-Allow-Headers","Content-Type, Authorization"],t.N,t.z),new A.aon())):s},
+return s===$?this.a=A.aNe(A.aHx("http://ec2-3-25-64-39.ap-southeast-2.compute.amazonaws.com/api/v1/",!0,A.ax(["Access-Control-Allow-Origin","https://ncsual.github.io/BananaTestWeb/","Access-Control-Allow-Methods","GET, POST, PUT, DELETE, OPTIONS","Access-Control-Allow-Headers","Content-Type, Authorization"],t.N,t.z),new A.aon())):s},
 oC(a){return this.a1f(a)},
 a1f(a){var s=0,r=A.D(t.k8),q,p=2,o,n=this,m,l,k,j,i
 var $async$oC=A.E(function(b,c){if(b===1){o=c
